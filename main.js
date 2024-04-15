@@ -3,5 +3,5 @@ function pageLoad() {
 }
 
 function helloWorld() {
-    document.getElementById("world").innerHTML = "Hello World"
+    document.getElementById("world").innerHTML = "Hello World";
 }
